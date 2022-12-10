@@ -10,6 +10,14 @@
       "StackName": "amplify-chatappserver-dev-223737",
       "StackId": "arn:aws:cloudformation:us-west-1:574378465178:stack/amplify-chatappserver-dev-223737/24090e80-7855-11ed-a8a6-0617da0cd771",
       "AmplifyAppId": "d13l6xdc2ikvfj"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d13l6xdc2ikvfj",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
